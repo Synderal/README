@@ -23,7 +23,7 @@ Foi então que decidi ajudar a escola a encontrar soluções para os problemas d
 
 Embora eu não tenha agido corretamente ao acessar e alterar notas no sistema da escola (foram resetadas ao normal), essa experiência me ensinou muito sobre a importância da segurança da informação e despertou em mim um grande interesse pelos desafios dessa área. Desde então, tenho me dedicado a aprender mais sobre segurança da informação e trabalhado para ajudar outras organizações a proteger suas informações sensíveis contra ameaças externas.
 
-![enter image description here](https://pbs.twimg.com/media/Fn68yV8XoAAJtLE?format=jpg&name=medium)
+![Perfil]([https://pbs.twimg.com/media/Fn68yV8XoAAJtLE?format=jpg&name=medium](https://twitter.com/verdalha/status/1651312311225679878/photo/1))
 
 Desde então, venho estudando e me aprimorando nessa área que é tão importante nos dias de hoje. A segurança da informação é essencial para proteger nossos dados e informações pessoais em um mundo cada vez mais conectado. O crescente uso da tecnologia exige cada vez mais atenção e cuidado na proteção das informações, seja em nível pessoal ou empresarial.
 
